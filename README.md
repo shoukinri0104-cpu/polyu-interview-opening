@@ -1,8 +1,15 @@
 # PolyU Interview Opening
 
-Download [opening.mp4](https://github.com/shoukinri0104-cpu/polyu-interview-opening/raw/refs/heads/main/opening.mp4), or open the file on GitHub and select Download raw file.
+## Continuous-line version
 
-32 seconds, 1280 x 720, 30 fps, H.264. Minimalist line animation and placeholder footage, without recorded narration.
+Based on the supplied building photograph: central cylindrical tower and two long wings. Cream background, restrained brick-red line, one continuous drawing trajectory. Only the opening question appears, with no title card or other text. 32 seconds, 1280 x 720, 30 fps, H.264; no recorded narration.
 
-File size: 604436 bytes.
-SHA-256: 1be1b93881a361d20df662f8d9232fbe9fc8079a4f4c7d46a2cf0d8589e49479
+- [Download video](https://github.com/shoukinri0104-cpu/polyu-interview-opening/raw/refs/heads/main/continuous-opening.mp4)
+- [View final frame](continuous-final.png)
+- [Download complete standalone Remotion + React project](https://github.com/shoukinri0104-cpu/polyu-interview-opening/raw/refs/heads/main/continuous-project.zip)
+
+The project ZIP contains all code, lockfile and instructions. After extracting, run `npm ci`, `npm start`, and `npm run render`. On Mac, Remotion manages its rendering browser automatically.
+
+## Previous version
+
+[Download original opening.mp4](https://github.com/shoukinri0104-cpu/polyu-interview-opening/raw/refs/heads/main/opening.mp4).
